@@ -1,0 +1,36 @@
+
+.box1{height: 200px;
+     width: 1300px;
+     background-color: rgba(199, 210, 228, 0.42); 
+    border-radius: 20px ;
+    margin: 100px, 100px, 100px, 100px; 
+    padding: 20px;
+    display: flex;          
+  align-items: center;    
+  gap: 40px; }
+
+#head {font-size: xx-large; 
+    font-family:'Times New Roman', Times, serif ;
+    color: rgb(45, 30, 79);
+     font-weight: bold;}
+
+#tag { font-size: large;
+ font-family: 'Times New Roman', Times, serif;
+ color: black;
+}
+
+body{ margin: 140px 100px 100px 100px;
+    background-image: url("Picture1.png");
+    background-repeat: no-repeat;
+background-size: cover;
+background-position: center;}
+
+#one { font-weight: bold;}
+#two { font-weight: bold;}
+#three { font-weight: bold;}
+    
+.dot{font-size: x-large;
+     font-family: 'Times New Roman', Times, serif;}
+
+h2{text-align: center;}
+
